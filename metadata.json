@@ -1,0 +1,12 @@
+{
+  "name": "AURA NEXUS: Spatial Holographic AI & Zero-Trust Ecosystem",
+  "description": "Next-generation spatial AI platform uniting real-time holographic AR, zero-trust end-to-end encryption, cross-platform synchronization, and government-to-business ecosystems with battery-optimized rendering.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
